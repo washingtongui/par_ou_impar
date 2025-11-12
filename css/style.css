@@ -72,3 +72,19 @@ input {
     height: 3rem;
     font-size: 2rem;
 }
+
+@media screen and (max-width: 855px) {
+
+    * {
+        margin: 2rem;
+    }
+
+    div {
+        display: flex;
+        gap: 1px;
+    }
+
+    .respostas {
+        font-size: 12px;
+    }
+}
