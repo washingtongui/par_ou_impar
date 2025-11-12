@@ -82,6 +82,7 @@ input {
     div {
         display: flex;
         gap: 1px;
+        margin: 2rem;
     }
 
     .respostas {
